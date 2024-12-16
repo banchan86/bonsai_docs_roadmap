@@ -9,8 +9,8 @@ mindmap
       Examples Hub
       Project Showcase
     Education
-      Bonsai.Hardware
-      Bonsai.Neuro Workflows
+      Bonsai.Neuro.Hardware
+      Bonsai.Neuro.Workflows
       YouTube
     Documentation
         Infrastructure
