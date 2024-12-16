@@ -7,21 +7,19 @@ mindmap
   root((bonsai))
     Community
       Examples Hub
+      Project Showcase
     Education
       Bonsai.Hardware
       Bonsai.Neuro Workflows
+      YouTube
     Documentation
         Infrastructure
-          API Template
-          TOC Customization
-          Bonsai.Template
-          IncludeWorkflow Support
-        Conceptual Articles
+        Main Docs
         Package Docs
-    Outreach
+    Community
       GitHub
-      YouTube
       Discord
       Bluesky
       Mastodon
+      Newsletter
 ```
