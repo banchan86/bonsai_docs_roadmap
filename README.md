@@ -16,7 +16,7 @@ mindmap
         Infrastructure
         Main Docs
         Package Docs
-    Community
+    Communication
       GitHub
       Discord
       Bluesky
