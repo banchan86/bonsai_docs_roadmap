@@ -17,9 +17,11 @@ mindmap
         Main Docs
         Package Docs
     Communication
+      LinkedIn
       GitHub
       Discord
       Bluesky
       Mastodon
       Newsletter
+      Blog/News
 ```
