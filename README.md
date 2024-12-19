@@ -9,15 +9,13 @@ mindmap
       Examples Hub
       Project Showcase
     Education
-      Bonsai.Neuro.Hardware
-      Bonsai.Neuro.Workflows
+      Bonsai.Neuro
       YouTube
     Documentation
         Infrastructure
         Main Docs
         Package Docs
     Communication
-      LinkedIn
       GitHub
       Discord
       Bluesky
