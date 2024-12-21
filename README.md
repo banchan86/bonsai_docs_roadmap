@@ -22,4 +22,4 @@ mindmap
       Newsletter
       Blog/News
 ```
-Unfortunately Mermaid.js mindmaps do not yet support clickable links (https://github.com/mermaid-js/mermaid/issues/4099) but the projects can be found on the `Projects` tab.
+Unfortunately Mermaid.js mindmaps do not yet support clickable links (https://github.com/mermaid-js/mermaid/issues/4099).
