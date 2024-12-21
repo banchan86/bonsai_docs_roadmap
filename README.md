@@ -1,5 +1,5 @@
 # bonsai_docs_roadmap
-A repository for project ideas, roadmaps, and todos to enhance Bonsai documentation and outreach efforts.
+A repository for project ideas to enhance Bonsai documentation and outreach efforts.
 
 # Mindmap
 ```mermaid
